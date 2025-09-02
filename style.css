@@ -18,7 +18,7 @@ body{
   );
   background-size: auto auto;
   background-clip: border-box;
-  background-size: 200% auto;
+  background-size: auto;
   color: #fff;
   background-clip: text;
   
@@ -26,7 +26,7 @@ body{
   -webkit-text-fill-color: transparent;
   animation: textclip 2s linear infinite;
   display: inline-block;
-      font-size: 190px;
+      font-size: 100px;
 }
 
 @keyframes textclip {
