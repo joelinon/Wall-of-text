@@ -5,6 +5,10 @@ body{
     background-position: scroll;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 .huvud{
     text-align: center;
+}
+.main{
+    width: 50%;
 }
