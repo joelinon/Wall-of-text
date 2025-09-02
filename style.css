@@ -1,6 +1,6 @@
 body{
     background-image: url("ny bakgrund.jpg");  
-    background-size: cover;
+    background-size: contain;
     color: white;
     background-position: scroll;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
